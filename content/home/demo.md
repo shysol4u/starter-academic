@@ -42,5 +42,23 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
++++
+
+
+
+
+
+
+{{% callout note %}}
+
+
+
+{{% /callout %}}
 
 
