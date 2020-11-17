@@ -11,7 +11,7 @@ role: Postdoctoral Research Associate
 # Organizations/Affiliations
 organizations:
 - name: Washington State University
-  url: ""
+  url: "https://orap.wsu.edu/wsu-prpa/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include understanding the receptor evolution in plant immunity and counterevolution of patogen resitance mechanisms.
