@@ -21,8 +21,8 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
-  Background color.
-  color = "navy"
+  # Background color.
+  # color = "navy"
   
   # Background gradient.
   gradient_start = "Black"
@@ -42,23 +42,5 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
-
-
-
-
-
-{{% callout note %}}
-
-
-
-{{% /callout %}}
 
 
