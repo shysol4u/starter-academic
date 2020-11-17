@@ -25,6 +25,33 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
+  gradient_start = "Blue"
+  gradient_end = "Blue"
+
+
+
+widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
+
+title = "Host-Patogen Interaction- A Game of cat and mouse"
+subtitle = ""
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
   gradient_start = "White"
   gradient_end = "White"
   
