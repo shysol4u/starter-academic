@@ -97,7 +97,7 @@ address = {street = "281 Johnson Hall", city = "Pullman", region = "WA", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "46.7319N", longitude = "117.1542W"}
+coordinates = {latitude = "46.731732", longitude = "-117.157926"}
 
 # Directions for visitors to locate you.
 directions = "Email me first"
